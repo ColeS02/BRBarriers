@@ -1,0 +1,11 @@
+WhiteListed-Worlds:
+  - "world"
+Keys:
+  Barrier1:
+    Item: "RED_DYE"
+    Name: "&a&lBarrier One"
+    Lore:
+      - "&fline1"
+      - "&f&lline2"
+    Amount: 5
+    Enchanted: true
